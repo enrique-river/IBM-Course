@@ -15,7 +15,7 @@ is a key competitive advantage in the commercial space industry.
   and an interactive web dashboard created with Plotly Dash.
 
 * Predictive Modeling (Machine Learning): I evaluate different models like Logistic Regression, Support Vector Machines,
-* Decision Trees, K-Nearest Neighbors) and GridSearchCV for hyperparameter tuning.
+ Decision Trees, K-Nearest Neighbors) and GridSearchCV for hyperparameter tuning.
 
 # Technologies and Libraries
 * Languages: Python, SQL
